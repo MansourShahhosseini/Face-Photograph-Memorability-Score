@@ -16,7 +16,7 @@ In the digital era, faces significantly influence marketing, social interactions
 
 #### - Cross-Attention Mechanism: A multi-head attention layer integrates textual queries with visual keys/values to identify features that enhance memorability prediction.
 
-![image](https://github.com/MansourShahhosseini/mansourshahhosseini.github.io/blob/main/assets/MLCSProject/ml_model.png)
+<img src="https://github.com/MansourShahhosseini/mansourshahhosseini.github.io/blob/main/assets/MLCSProject/ml_model.png" width="1000" height="300">
 
 ## Results
 
@@ -24,5 +24,6 @@ In the digital era, faces significantly influence marketing, social interactions
 
 #### - High Memorability: Unique attributes such as scars, goatees, and tan skin tones.
 #### - Low Memorability: Common features like full beards or baldness
-
-![image](https://github.com/MansourShahhosseini/mansourshahhosseini.github.io/blob/main/assets/MLCSProject/ml_results.png)
+<p align="center">
+<img src="https://github.com/MansourShahhosseini/mansourshahhosseini.github.io/blob/main/assets/MLCSProject/ml_results.png" width="500" height="300">
+</p>
